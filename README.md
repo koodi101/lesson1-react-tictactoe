@@ -8,6 +8,8 @@ The tutorial can be run through without any installations by starting from [this
 
 ## Run the tutorial locally
 
+Once you have the application running in your local environment ([nodejs](https://nodejs.org/en/download/package-manager/) or [docker](https://docs.docker.com/install/)) you can edit the files in your editor and see the changes immediately in the browser window here [http://localhost:8000](http://localhost:8000).
+
 ### Prerequisites
 
 * [Git](https://www.atlassian.com/git/tutorials/install-git)
