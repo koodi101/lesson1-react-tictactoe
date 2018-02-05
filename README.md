@@ -20,8 +20,9 @@ Once you have the application running in your local environment ([nodejs](https:
 ### Using Node
 
 * Install [nodejs](https://nodejs.org/en/download/package-manager/).
+* Open your favorite shell.
 * Clone this repository: `git clone git@github.com:koodi101/react-tictactoe.git`
-* Go to the cloned directory.
+* Go to the cloned directory: `cd react-tictactoe`.
 * Install dependencies `npm install`
 * Run the app `npm start`
 * Open browser in [http://localhost:8000](http://localhost:8000)
@@ -30,7 +31,8 @@ Once you have the application running in your local environment ([nodejs](https:
 ### Using Docker
 
 * Install [docker](https://docs.docker.com/install/).
+* Open your favorite shell.
 * Clone this repository: `git clone git@github.com:koodi101/react-tictactoe.git`
-* Go to the cloned directory.
+* Go to the cloned directory: `cd react-tictactoe`.
 * Run the app `docker-compose up`
 * Open browser in [http://localhost:8000](http://localhost:8000)
