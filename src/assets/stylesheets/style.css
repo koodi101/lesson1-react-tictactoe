@@ -15,6 +15,15 @@ body {
   align-items: center;
 }
 
+*:focus {
+  outline: none;
+}
+
+.status {
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
 .game {
   display: flex;
   flex-direction: row;
@@ -29,11 +38,6 @@ body {
 
 ol, ul {
   padding-left: 30px;
-}
-
-.status {
-  font-size: 40px;
-  margin-bottom: 40px;
 }
 
 button {
@@ -55,14 +59,10 @@ button:hover {
   cursor: pointer;
 }
 
-*:focus {
-  outline: none;
-}
-
 .game-board {
   position: relative;
   flex-direction: row;
-    align-content: flex-start;
+  align-content: flex-start;
 }
 
 .board-row {
@@ -70,12 +70,9 @@ button:hover {
 }
 
 .square {
+  float: left;
   width: 100px;
   height: 100px;
-}
-
-.board-row .square {
-  float: left;
   font-size: 100px;
   display: flex;
   flex-direction: column;
@@ -83,7 +80,7 @@ button:hover {
   align-items: center;
 }
 
-.game-board .square.O {
+.game-board .square.zero {
   color: #FFF176;
 }
 
