@@ -17,6 +17,8 @@ Once you have the application running in your local environment ([nodejs](https:
 * Any shell, console or terminal.
 * Any editor. We recommend [sublime](https://www.sublimetext.com/), [atom](https://atom.io/) or [vscode](https://code.visualstudio.com/).
 
+You are going to have to sign up to github to clone code. If you want to avoid that, you can always just download the code (By clicking the green **Clone or download** -button).
+
 ### Using Node
 
 * Install [nodejs](https://nodejs.org/en/download/package-manager/).
