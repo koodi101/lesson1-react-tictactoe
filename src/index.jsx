@@ -1,7 +1,11 @@
+/******** DO NOT DELETE THESE LINES ********/
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 
 import './assets/stylesheets/style.css'
+
+/***** PASTE YOUR CODE AFTER THIS LINE *****/
 
 class Square extends React.Component {
   render() {
