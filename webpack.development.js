@@ -39,6 +39,7 @@ module.exports = {
           presets: [
             'react',
             ['env', { targets: { browsers: ['last 2 versions'] }, modules: false }],
+            'stage-2',
           ],
         },
       },
