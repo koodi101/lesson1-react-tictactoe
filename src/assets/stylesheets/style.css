@@ -48,3 +48,24 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+
+button {
+    background: none;
+    border: none;
+    position: relative;
+}
+
+button:after {
+    content: "";
+    position: absolute;
+    background-color: #999999;
+    left: 0;
+    bottom: -2px;
+    width: 0;
+    height: 1px;
+    transition: 0.5s width;
+}
+
+button:hover:after {
+    width: 100%;
+}
