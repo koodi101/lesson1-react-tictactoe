@@ -29,7 +29,6 @@ You are going to have to sign up to github to clone code. If you want to avoid t
 * Run the app `npm start`
 * Open browser in [http://localhost:8000](http://localhost:8000)
 
-
 ### Using Docker
 
 * Install [docker](https://docs.docker.com/install/).
