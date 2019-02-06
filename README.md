@@ -24,7 +24,7 @@ You are going to have to sign up to github to clone code. If you want to avoid t
 * Install [nodejs](https://nodejs.org/en/download/package-manager/).
 * Open your favorite shell.
 * Clone this repository: `git clone https://github.com/koodi101/lesson1-react-tictactoe.git`
-* Go to the cloned directory: `cd react-tictactoe`.
+* Go to the cloned directory: `cd lesson1-react-tictactoe`.
 * Install dependencies `npm install`
 * Run the app `npm start`
 * Open browser in [http://localhost:8000](http://localhost:8000)
