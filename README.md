@@ -32,7 +32,7 @@ You are going to have to sign up to github to clone code. If you want to avoid t
 
 ### Using Docker
 
-* Install [docker](https://docs.docker.com/install/).
+* Install [Docker](https://docs.docker.com/install/) ([download link for mac](https://download.docker.com/mac/stable/Docker.dmg)).
 * Open your favorite shell.
 * Clone this repository: `git clone https://github.com/koodi101/lesson1-react-tictactoe.git`
 * Go to the cloned directory: `cd lesson1-react-tictactoe`
