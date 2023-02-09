@@ -15,9 +15,11 @@ The tutorial can be done either in your own internet browser (1) using the CodeS
 #### Prerequisites
 
 * [Git](https://www.atlassian.com/git/tutorials/install-git)
-* [nodejs](https://nodejs.org/en/download/package-manager/)
+* [nodejs](https://nodejs.org/en/download/)
 * Any shell, console or terminal. For windows, we recommend [Git Bash](https://gitforwindows.org/)
 * Any code editor. If you are new to programming, we recommend starting with [Visual Studio Code](https://code.visualstudio.com/)
+
+> If you are using GNU/Linux, install the packages from your package manager instead. For example, Node.js is available on the [these package managers](https://nodejs.org/en/download/package-manager/).
 
 1. Clone this repository:
 
