@@ -4,6 +4,6 @@ services:
   frontend:
     build: .
     volumes:
-      - ./src:/usr/src/app/src
+      - ./src:/usr/src/app/src:Z
     ports:
       - 8000:8000

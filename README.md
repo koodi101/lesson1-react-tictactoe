@@ -15,8 +15,8 @@ The tutorial can be done either in your own internet browser (1) using the CodeS
 #### Prerequisites
 
 * [Git](https://www.atlassian.com/git/tutorials/install-git)
-* [nodejs](https://nodejs.org/en/download/)
-* Any shell, console or terminal. For windows, we recommend [Git Bash](https://gitforwindows.org/)
+* [Node.js and NPM](https://nodejs.org/en/download/)
+* Any console or terminal. For windows, we recommend [Git Bash](https://gitforwindows.org/). However, PowerShell and cmd.exe are not recommended.
 * Any code editor. If you are new to programming, we recommend starting with [Visual Studio Code](https://code.visualstudio.com/)
 
 > If you are using GNU/Linux, install the packages from your package manager instead. For example, Node.js is available on the [these package managers](https://nodejs.org/en/download/package-manager/).
@@ -34,7 +34,7 @@ The tutorial can be done either in your own internet browser (1) using the CodeS
 
 #### Local development environment using Node.js
 
-1. Install [Node.js](https://nodejs.org/en/download/package-manager/).
+1. Install [Node.js and NPM](https://nodejs.org/en/download/).
 1. Open your favorite shell.
 
 1. Go to the cloned directory:
